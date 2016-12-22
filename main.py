@@ -14,7 +14,7 @@ def createTitle(studentName, file):
 	file.write('\\large	\n')
 	file.write('з дисципліни \n\n')
 	file.write('\\large \n')	
-	file.write('\\"Теорія алгоритмів" \n\n')
+	file.write('"Теорія алгоритмів" \n\n')
 	file.write('\\vfill \n')
 	file.write('\\raggedleft \n')
 	file.write('\\normalsize \n')
