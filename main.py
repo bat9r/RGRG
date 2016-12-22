@@ -12,7 +12,7 @@ def createTitle(studentName, file):
 	file.write('\\Large \n')
 	file.write('\\textbf{Розрахункова робота} \n\n')
 	file.write('\\large	\n')
-	file.write('\\з дисципліни \n\n')
+	file.write('з дисципліни \n\n')
 	file.write('\\large \n')	
 	file.write('\\"Теорія алгоритмів" \n\n')
 	file.write('\\vfill \n')
